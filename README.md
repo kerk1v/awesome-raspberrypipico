@@ -57,7 +57,6 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 
 - [Pico Tetris](https://github.com/rbirkby/picotetris) - 'Tetris on a Raspberry Pi Pico mounted on a Pimoroni Pico Explorer.'
 - [Pico Display Colour Change](https://github.com/shane-powell/pico-display-colour-change) - 'A Pico app using Pimoroni's display pack.'
-- [Pico Lib for NeoPixels](https://github.com/benevpi/pico_python_ws2812b) - A Raspberry Pi Pico library for using NeoPixels (WS2812b LEDs).
 - [TensorFlow Lite Micro](https://github.com/raspberrypi/pico-tflmicro) - An official port of the TensorFlow Lite Micro library for the Pico.
 - [Rust Support Crate](https://github.com/devsnek/pio-rs) - Rust support crate for Pico's PIO architecture.
 - [morse4pico](https://github.com/slouchd/morse4pico) - Very simple Morse code script in MicroPython for the Raspberry Pi Pico.
